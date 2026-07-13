@@ -1,0 +1,16 @@
+/*-- scss:defaults --*/
+$ink: #1B2430;
+$paper: #EDEFEA;
+$stone: #9CA3A0;
+$brass: #A9843C;
+$charcoal: #22272B;
+
+$body-bg: $paper;
+$body-color: $charcoal;
+$link-color: $brass;
+$navbar-bg: $ink;
+$navbar-fg: $paper;
+$font-family-sans-serif: "Inter", -apple-system, sans-serif;
+
+/*-- scss:rules --*/
+.navbar-title { font-family: 'Fraunces', serif; font-weight: 600; }

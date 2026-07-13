@@ -1,0 +1,40 @@
+---
+title: "Oficina en Las Condes"
+subtitle: "Av. Apoquindo 3900, piso 8 · Las Condes, Santiago"
+date: 2026-05-20
+image: fotos/foto1.jpg
+categories: [Reservado, Arriendo, Las Condes]
+description: "Oficina en edificio corporativo con seguridad 24/7. 55 m²."
+---
+
+::: {.gallery}
+![](fotos/foto1.jpg)
+:::
+
+::: {.spec-sheet}
+**Operación**\
+Arriendo
+
+**Precio**\
+\$980.000 CLP/mes
+
+**Superficie**\
+55 m²
+
+**Dormitorios**\
+0
+
+**Baños**\
+1
+
+**Estacionamientos**\
+1
+
+**Estado**\
+Reservado
+:::
+
+Oficina en edificio corporativo con seguridad 24/7, sala de reuniones
+compartida y excelente conectividad.
+
+[&larr; Volver al listado](../../index.html)

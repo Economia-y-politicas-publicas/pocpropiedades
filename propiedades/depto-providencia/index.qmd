@@ -1,0 +1,42 @@
+---
+title: "Departamento en Providencia"
+subtitle: "Av. Los Leones 1234 · Providencia, Santiago"
+date: 2026-07-01
+image: fotos/foto1.jpg
+categories: [Disponible, Arriendo, Providencia]
+description: "Departamento luminoso a pasos del metro Los Leones, 68 m², 2 dormitorios."
+---
+
+::: {.gallery}
+![](fotos/foto1.jpg)
+![](fotos/foto2.jpg)
+![](fotos/foto3.jpg)
+:::
+
+::: {.spec-sheet}
+**Operación**\
+Arriendo
+
+**Precio**\
+\$650.000 CLP/mes
+
+**Superficie**\
+68 m²
+
+**Dormitorios**\
+2
+
+**Baños**\
+1
+
+**Estacionamientos**\
+1
+
+**Estado**\
+Disponible
+:::
+
+Departamento luminoso a pasos del metro Los Leones. Living-comedor amplio,
+cocina americana equipada y balcón orientado al norte.
+
+[&larr; Volver al listado](../../index.html)

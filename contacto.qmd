@@ -1,0 +1,9 @@
+---
+title: "Contacto"
+page-layout: article
+---
+
+¿Te interesa alguna propiedad o querés que administremos la tuya? Escribinos:
+
+- **Correo:** tu-correo@ejemplo.com
+- **Teléfono / WhatsApp:** +56 9 XXXX XXXX

@@ -1,0 +1,18 @@
+---
+title: "Cartera de Propiedades"
+subtitle: "Departamentos, casas y oficinas administradas"
+listing:
+  contents: propiedades
+  type: grid
+  grid-columns: 3
+  image-height: "220px"
+  fields: [image, title, description, categories]
+  field-display-names:
+    categories: "Etiquetas"
+  sort: "date desc"
+  categories: true
+  sort-ui: [date, title]
+  filter-ui: true
+page-layout: full
+title-block-banner: false
+---

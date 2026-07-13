@@ -1,0 +1,5 @@
+/docs/
+/.quarto/
+*_files/
+*.quarto_ipynb
+.DS_Store

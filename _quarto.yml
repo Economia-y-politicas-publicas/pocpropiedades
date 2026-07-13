@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Cartera de Propiedades"
+  description: "Fichas e imágenes de los inmuebles administrados"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Propiedades
+      - href: contacto.qmd
+        text: Contacto
+
+format:
+  html:
+    theme: [cosmo, styles/custom.scss]
+    css: styles/styles.css
+    toc: false
+    page-layout: full
+    grid:
+      body-width: 1100px

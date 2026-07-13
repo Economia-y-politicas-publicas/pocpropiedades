@@ -1,0 +1,41 @@
+---
+title: "Casa en Peñalolén"
+subtitle: "Calle Las Torcazas 456 · Peñalolén, Santiago"
+date: 2026-06-15
+image: fotos/foto1.jpg
+categories: [Disponible, Venta, Peñalolén]
+description: "Casa de dos pisos con jardín, quincho y vista a la cordillera. 140 m², 4 dormitorios."
+---
+
+::: {.gallery}
+![](fotos/foto1.jpg)
+![](fotos/foto2.jpg)
+:::
+
+::: {.spec-sheet}
+**Operación**\
+Venta
+
+**Precio**\
+UF 6.800
+
+**Superficie**\
+140 m²
+
+**Dormitorios**\
+4
+
+**Baños**\
+3
+
+**Estacionamientos**\
+2
+
+**Estado**\
+Disponible
+:::
+
+Casa de dos pisos con jardín, quincho y vista a la cordillera. Sector
+residencial tranquilo, cerca de colegios y áreas verdes.
+
+[&larr; Volver al listado](../../index.html)
