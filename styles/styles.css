@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:wght@500;600&family=Inter:wght@400;500&family=IBM+Plex+Mono:wght@400;600&display=swap');
+
+/* Tarjetas del listing nativo de Quarto */
+.quarto-grid-item .card {
+  border: 1px solid #DADDD6;
+  border-radius: 2px;
+  transition: transform .15s ease, box-shadow .15s ease;
+}
+.quarto-grid-item .card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 10px 24px rgba(27, 36, 48, .12);
+}
+.quarto-grid-item .card-title { font-family: 'Fraunces', serif; }
+.quarto-grid-item .listing-categories .listing-category {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: .68rem;
+  background: #1B2430;
+  color: #EDEFEA;
+  border: none;
+}
+.quarto-listing-category-title { font-family: 'IBM Plex Mono', monospace; }
+
+/* Página de detalle */
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: .75rem;
+  margin: 1rem 0 1.5rem;
+}
+.gallery img {
+  width: 100%; aspect-ratio: 4/3; object-fit: cover; border-radius: 2px;
+}
+
+.spec-sheet {
+  background: #fff;
+  border: 1px solid #DADDD6;
+  padding: 1.1rem 1.5rem;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
+  gap: .9rem 1.2rem;
+  margin: 0 0 1.5rem;
+}
+.spec-sheet strong {
+  display: block;
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: .7rem;
+  text-transform: uppercase;
+  letter-spacing: .08em;
+  color: #9CA3A0;
+  font-weight: 600;
+}
