@@ -22,14 +22,25 @@
 
 /* Página de detalle */
 .gallery {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  display: flex;
   gap: .75rem;
   margin: 1rem 0 1.5rem;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  padding-bottom: .5rem;
 }
 .gallery img {
-  width: 100%; aspect-ratio: 4/3; object-fit: cover; border-radius: 2px;
+  flex: 0 0 auto;
+  width: 320px;
+  height: 240px;
+  object-fit: cover;
+  border-radius: 2px;
+  scroll-snap-align: start;
+  cursor: pointer;
 }
+/* barra de scroll más discreta */
+.gallery::-webkit-scrollbar { height: 6px; }
+.gallery::-webkit-scrollbar-thumb { background: #DADDD6; border-radius: 3px; }
 
 .spec-sheet {
   background: #fff;
