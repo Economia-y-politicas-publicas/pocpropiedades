@@ -1,0 +1,40 @@
+---
+title: "Casa en La Florida"
+subtitle: "Entre Trinidad y Santa Raquel · La Florida, Santiago"
+date: 2026-07-13
+image: fotos/foto1.jpg
+categories: [Disponible, Arriendo, "La Florida"]
+description: "Casa de dos pisos con antejardín y portón automático. 4 dormitorios, 2 baños, terraza techada con quincho."
+---
+
+::: {.gallery}
+![](fotos/foto1.jpg)
+![](fotos/foto2.jpg)
+:::
+
+::: {.spec-sheet}
+**Operación**\
+Arriendo
+
+**Precio**\
+$670.000 CLP/mes
+
+**Dormitorios**\
+4
+
+**Baños**\
+2
+
+**Estacionamientos**\
+1 (entrada de auto con portón automático)
+
+**Estado**\
+Disponible
+:::
+
+Casa de dos pisos ubicada entre Trinidad y Santa Raquel, con antejardín
+y entrada de auto con portón automático. Primer piso con living-comedor,
+cocina americana y un dormitorio; segundo piso con los otros tres
+dormitorios. Terraza techada con quincho, ideal para recibir.
+
+[&larr; Volver al listado](../../index.html)
