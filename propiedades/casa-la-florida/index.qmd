@@ -8,8 +8,10 @@ description: "Casa de dos pisos con antejardín y portón automático. 4 dormito
 ---
 
 ::: {.gallery}
-![](fotos/foto1.jpg)
-![](fotos/foto2.jpg)
+![](fotos/foto 1.jpg)
+![](fotos/foto 2.jpeg)
+![](fotos/foto 3.jpeg)
+![](fotos/foto 4.jpeg)
 :::
 
 ::: {.spec-sheet}
