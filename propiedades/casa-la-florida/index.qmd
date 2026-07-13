@@ -2,7 +2,7 @@
 title: "Casa en La Florida"
 subtitle: "Entre Trinidad y Santa Raquel · La Florida, Santiago"
 date: 2026-07-13
-image: fotos/foto1.jpg
+image: fotos/foto 1.jpg
 categories: [Disponible, Arriendo, "La Florida"]
 description: "Casa de dos pisos con antejardín y portón automático. 4 dormitorios, 2 baños, terraza techada con quincho."
 ---
