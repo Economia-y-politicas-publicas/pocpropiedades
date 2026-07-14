@@ -3,22 +3,56 @@ title: "Contacto"
 page-layout: article
 ---
 
-Horarios
-Lunes a Viernes: 9:30 a.m. a 6:30 p.m.
+::: {.grid}
 
-Sábado y Domingo: cerrado
+::: {.g-col-12 .g-col-md-6}
 
+## 📍 Ubicación
 
-Nos encontramos en Vicuña Mackenna poniente 7255, oficina 313. 
-Estamos cerca del metro Bellavista de la Florida Línea 5 y metro Vicuña Mackena Línea 4.
+**Vicuña Mackenna Poniente 7255, oficina 313**  
+La Florida, Región Metropolitana
 
-Esperamos verte pronto por aquí.
+Estamos cerca de:
+
+- 🚇 Metro Bellavista de La Florida — Línea 5
+- 🚇 Metro Vicuña Mackenna — Línea 4
+
+:::
+
+::: {.g-col-12 .g-col-md-6}
+
+## 🕒 Horarios de atención
+
+| Día | Horario |
+|---|---|
+| Lunes a Viernes | 9:30 a.m. – 6:30 p.m. |
+| Sábado y Domingo | Cerrado |
+
+:::
+
+:::
+
+![Edificio donde nos encontramos](edificio.png){fig-alt="Fachada del edificio de oficinas en Vicuña Mackenna Poniente 7255" fig-align="center" width=70%}
 
 ```{=html}
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3326.2420617413995!2d-70.60427042437969!3d-33.52109160113323!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9662d0610f43c261%3A0x381b2b46ecaaf3d9!2sAv.%20Vicu%C3%B1a%20Mackenna%20Poniente%207255%2C%20La%20Florida%2C%20Regi%C3%B3n%20Metropolitana%2C%20Chile!5e0!3m2!1ses-419!2sus!4v1784006665415!5m2!1ses-419!2sus" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3326.2420617413995!2d-70.60427042437969!3d-33.52109160113323!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9662d0610f43c261%3A0x381b2b46ecaaf3d9!2sAv.%20Vicu%C3%B1a%20Mackenna%20Poniente%207255%2C%20La%20Florida%2C%20Regi%C3%B3n%20Metropolitana%2C%20Chile!5e0!3m2!1ses-419!2sus!4v1784006665415!5m2!1ses-419!2sus" width="100%" height="450" style="border:0; border-radius: 8px; margin-top: 1.5rem;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
 ```
 
-Para consultar o agendar, llama o envía un correo electrónico a:
+<br>
 
-- **Correo:** pocpropiedades@gmail.com / pamela.onetto@mcpropiedades.cl
-- **Teléfono / WhatsApp:** +56 9 8215 7038
+::: {.callout-note appearance="simple"}
+
+## 📩 ¿Quieres agendar una visita o hacer una consulta?
+
+Escríbenos o llámanos, estaremos felices de ayudarte:
+
+**✉️ Correo:**  
+pocpropiedades@gmail.com  
+pamela.onetto@mcpropiedades.cl
+
+**📱 Teléfono / WhatsApp:**  
++56 9 8215 7038
+
+:::
+
+Esperamos verte pronto por aquí 😊
